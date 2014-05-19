@@ -1,0 +1,14 @@
+<resources>
+
+    . . .
+
+    <string name="nombre">Escribe tu nombre:</string>
+    <string name="hola">Saludo</string>
+    <string name="app_name">MyApplication</string>
+    <string name="title_activity_main">Main</string>
+    <string name="title_activity_saludo">Saludo</string>
+    <string name="action_settings">Settings</string>
+
+    . . .
+
+</resources>
